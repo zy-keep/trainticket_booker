@@ -19,7 +19,7 @@
 - 支持失败次数超过阈值放弃该车次
 - 刷票间隔约1s
 - 支持自动提交
-
+111
 ### 安装条件
 - [Chrome浏览器](https://www.google.com/chrome/browser/desktop/index.html)
 - [Chrome Driver](https://sites.google.com/a/chromium.org/chromedriver/) (Mac 用户可通过brew install chromedriver安装)
